@@ -18,6 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>
+        <p>New feature added!</p>
+        <p>Stay tuned for more updates!</p>
+        <p>&copy; 2023 Your Company Name. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
